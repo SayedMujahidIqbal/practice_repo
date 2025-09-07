@@ -1,0 +1,7 @@
+Hello this is my shopping list 
+1: Shirts
+2: Pants
+3: blazers
+4: bread
+5: eggs
+
