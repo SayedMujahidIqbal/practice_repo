@@ -1,3 +1,7 @@
 This m lapio school.
 I have been in this school since 2012.
+<<<<<<< HEAD
 Hello from GitHub.
+=======
+Hello from My Computer.
+>>>>>>> 4b5f5a2 (lapio2 file has been modified)
